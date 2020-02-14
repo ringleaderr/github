@@ -1,0 +1,8 @@
+github:
+  http-client-config:
+    max-idle-connections: 20
+    keep-alive-duration: 30
+    connect-timeout: 30
+  credentials:
+    username:
+    password:
